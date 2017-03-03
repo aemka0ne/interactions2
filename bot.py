@@ -7,7 +7,7 @@ import serial
 HOST = "irc.twitch.tv"
 PORT = 6667
 NICK = "aemkabot"
-PASS = "oauth:qp1h6yakvd7a5r5e75v0f25r9nc5vk"
+PASS = "oauth:***********************"
 CHAN = "#aemka1ne"
 
 
